@@ -1,0 +1,30 @@
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\bin\Debug\game.exe
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\bin\Debug\game.pdb
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\bin\Debug\game.xml
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\obj\x86\Debug\game.Form1.resources
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\obj\x86\Debug\game.Form2.resources
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\obj\x86\Debug\game.Form3.resources
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\obj\x86\Debug\game.Resources.resources
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\obj\x86\Debug\game.vbproj.GenerateResource.Cache
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\obj\x86\Debug\game.exe
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\obj\x86\Debug\game.xml
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\obj\x86\Debug\game.pdb
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\obj\x86\Debug\game.Form4.resources
+\\cc\students\users\541583\visual studio 2010\Projects\game\game\obj\x86\Debug\game.Form5.resources
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.exe
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.xml
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.pdb
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.Form1.resources
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.Form2.resources
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.Form3.resources
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.Form4.resources
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.Form5.resources
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.Resources.resources
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.vbproj.GenerateResource.Cache
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\bin\Debug\game.exe
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\bin\Debug\game.pdb
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\bin\Debug\game.xml
+\\CC\Students\Users\541583\Btec ICT lv3\unit 22\game\game\obj\x86\Debug\game.game.resources
+G:\Unit 22\unit 22\game\game\obj\x86\Debug\game.exe
+G:\Unit 22\unit 22\game\game\obj\x86\Debug\game.xml
+G:\Unit 22\unit 22\game\game\obj\x86\Debug\game.pdb
